@@ -1,3 +1,132 @@
+.igap_file-gif {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe903;');
+}
+.igap_file-gif2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe906;');
+}
+.igap_quote {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe907;');
+}
+.igap_quote2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe908;');
+}
+.igap_camera {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe909;');
+}
+.igap_film {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90a;');
+}
+.igap_picture {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90b;');
+}
+.igap_cassette {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90c;');
+}
+.igap_wallet {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90d;');
+}
+.igap_position {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90e;');
+}
+.igap_bookmark {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe90f;');
+}
+.igap_zip {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe910;');
+}
+.igap_home {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe911;');
+}
+.igap_home3 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe912;');
+}
+.igap_pencil2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe913;');
+}
+.igap_image {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe914;');
+}
+.igap_images {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe915;');
+}
+.igap_camera2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe916;');
+}
+.igap_music {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe917;');
+}
+.igap_play {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe918;');
+}
+.igap_film2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe919;');
+}
+.igap_video-camera {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91a;');
+}
+.igap_file-empty {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe924;');
+}
+.igap_files-empty {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe925;');
+}
+.igap_file-text2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe926;');
+}
+.igap_file-picture {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe927;');
+}
+.igap_file-music {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe928;');
+}
+.igap_file-play {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe929;');
+}
+.igap_file-video {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92a;');
+}
+.igap_file-zip {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92b;');
+}
+.igap_copy {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92c;');
+}
+.igap_paste {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe92d;');
+}
+.igap_folder-download {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe933;');
+}
+.igap_folder-upload {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe934;');
+}
+.igap_bubble {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96b;');
+}
+.igap_bubbles {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96c;');
+}
+.igap_bubbles2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe96d;');
+}
+.igap_enter {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea13;');
+}
+.igap_exit {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xea14;');
+}
+.igap_forward2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
+}
+.igap_right {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
+}
+.igap_arrow-right2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
+}
+.igap_qrcode2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe905;');
+}
 .igap_channel {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
 }
@@ -6,9 +135,6 @@
 }
 .igap_pinup {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe902;');
-}
-.igap_unpin {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe903;');
 }
 .igap_access-point {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf002;');
@@ -712,7 +838,7 @@
 .igap_book-variant {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0bf;');
 }
-.igap_bookmark {
+.igap_bookmark2 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0c0;');
 }
 .igap_bookmark-check {
@@ -937,7 +1063,7 @@
 .igap_camcorder-off {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf0ff;');
 }
-.igap_camera {
+.igap_camera3 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf100;');
 }
 .igap_camera-burst {
@@ -2068,7 +2194,7 @@
 .igap_file-multiple {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf222;');
 }
-.igap_file-music {
+.igap_file-music2 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf223;');
 }
 .igap_file-outline {
@@ -2101,7 +2227,7 @@
 .igap_file-tree {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf645;');
 }
-.igap_file-video {
+.igap_file-video2 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf22b;');
 }
 .igap_file-word {
@@ -2113,7 +2239,7 @@
 .igap_file-xml {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf22e;');
 }
-.igap_film {
+.igap_film3 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf22f;');
 }
 .igap_filmstrip {
@@ -2224,7 +2350,7 @@
 .igap_folder-account {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf24c;');
 }
-.igap_folder-download {
+.igap_folder-download2 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf24d;');
 }
 .igap_folder-google-drive {
@@ -2266,7 +2392,7 @@
 .igap_folder-star {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf69c;');
 }
-.igap_folder-upload {
+.igap_folder-upload2 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf259;');
 }
 .igap_font-awesome {
@@ -2827,7 +2953,7 @@
 .igap_hololens {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2db;');
 }
-.igap_home {
+.igap_home2 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2dc;');
 }
 .igap_home-map-marker {
@@ -2899,7 +3025,7 @@
 .igap_humble-bundle {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf743;');
 }
-.igap_image {
+.igap_image2 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf2e9;');
 }
 .igap_image-album {
@@ -3505,7 +3631,7 @@
 .igap_multiplication-box {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf383;');
 }
-.igap_music {
+.igap_music2 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf759;');
 }
 .igap_music-box {
@@ -4021,7 +4147,7 @@
 .igap_plane-shield {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf6ba;');
 }
-.igap_play {
+.igap_play2 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf40a;');
 }
 .igap_play-box-outline {
@@ -5551,7 +5677,7 @@
 .igap_walk {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf583;');
 }
-.igap_wallet {
+.igap_wallet2 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf584;');
 }
 .igap_wallet-giftcard {
@@ -5805,20 +5931,5 @@
 }
 .igap_zip-box {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf5c4;');
-}
-.igap_forward2 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
-}
-.igap_right {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
-}
-.igap_arrow-right2 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe904;');
-}
-.igap_qrcode2 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe905;');
-}
-.igap_reply2 {
-  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe906;');
 }
 
