@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'iGap-Fontico';
-  src:  url('#{$icomoon-font-path}/iGap-Fontico.eot?wi8bmf');
-  src:  url('#{$icomoon-font-path}/iGap-Fontico.eot?wi8bmf#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/iGap-Fontico.ttf?wi8bmf') format('truetype'),
-    url('#{$icomoon-font-path}/iGap-Fontico.woff?wi8bmf') format('woff'),
-    url('#{$icomoon-font-path}/iGap-Fontico.svg?wi8bmf#iGap-Fontico') format('svg');
+  src:  url('#{$icomoon-font-path}/iGap-Fontico.eot?th3vvd');
+  src:  url('#{$icomoon-font-path}/iGap-Fontico.eot?th3vvd#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/iGap-Fontico.ttf?th3vvd') format('truetype'),
+    url('#{$icomoon-font-path}/iGap-Fontico.woff?th3vvd') format('woff'),
+    url('#{$icomoon-font-path}/iGap-Fontico.svg?th3vvd#iGap-Fontico') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,64 +26,24 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.igap_file-gif {
+.igap_undo2 {
   &:before {
-    content: $igap_file-gif;
+    content: $igap_undo2;
   }
 }
-.igap_file-gif2 {
+.igap_redo2 {
   &:before {
-    content: $igap_file-gif2;
+    content: $igap_redo2;
   }
 }
-.igap_quote {
+.igap_forward {
   &:before {
-    content: $igap_quote;
+    content: $igap_forward;
   }
 }
-.igap_quote2 {
+.igap_reply {
   &:before {
-    content: $igap_quote2;
-  }
-}
-.igap_camera {
-  &:before {
-    content: $igap_camera;
-  }
-}
-.igap_film {
-  &:before {
-    content: $igap_film;
-  }
-}
-.igap_picture {
-  &:before {
-    content: $igap_picture;
-  }
-}
-.igap_cassette {
-  &:before {
-    content: $igap_cassette;
-  }
-}
-.igap_wallet {
-  &:before {
-    content: $igap_wallet;
-  }
-}
-.igap_position {
-  &:before {
-    content: $igap_position;
-  }
-}
-.igap_bookmark {
-  &:before {
-    content: $igap_bookmark;
-  }
-}
-.igap_zip {
-  &:before {
-    content: $igap_zip;
+    content: $igap_reply;
   }
 }
 .igap_home {
@@ -221,24 +181,74 @@ i {
     content: $igap_exit;
   }
 }
-.igap_forward2 {
-  &:before {
-    content: $igap_forward2;
-  }
-}
-.igap_right {
-  &:before {
-    content: $igap_right;
-  }
-}
-.igap_arrow-right2 {
-  &:before {
-    content: $igap_arrow-right2;
-  }
-}
 .igap_qrcode2 {
   &:before {
     content: $igap_qrcode2;
+  }
+}
+.igap_file-gif {
+  &:before {
+    content: $igap_file-gif;
+  }
+}
+.igap_file-gif2 {
+  &:before {
+    content: $igap_file-gif2;
+  }
+}
+.igap_quote {
+  &:before {
+    content: $igap_quote;
+  }
+}
+.igap_quote2 {
+  &:before {
+    content: $igap_quote2;
+  }
+}
+.igap_camera {
+  &:before {
+    content: $igap_camera;
+  }
+}
+.igap_film {
+  &:before {
+    content: $igap_film;
+  }
+}
+.igap_picture {
+  &:before {
+    content: $igap_picture;
+  }
+}
+.igap_cassette {
+  &:before {
+    content: $igap_cassette;
+  }
+}
+.igap_wallet {
+  &:before {
+    content: $igap_wallet;
+  }
+}
+.igap_position {
+  &:before {
+    content: $igap_position;
+  }
+}
+.igap_bookmark {
+  &:before {
+    content: $igap_bookmark;
+  }
+}
+.igap_zip {
+  &:before {
+    content: $igap_zip;
+  }
+}
+.igap_unpin {
+  &:before {
+    content: $igap_unpin;
   }
 }
 .igap_channel {
@@ -4396,9 +4406,9 @@ i {
     content: $igap_forum;
   }
 }
-.igap_forward {
+.igap_forward2 {
   &:before {
-    content: $igap_forward;
+    content: $igap_forward2;
   }
 }
 .igap_foursquare {
@@ -7431,9 +7441,9 @@ i {
     content: $igap_replay;
   }
 }
-.igap_reply {
+.igap_reply2 {
   &:before {
-    content: $igap_reply;
+    content: $igap_reply2;
   }
 }
 .igap_reply-all {
