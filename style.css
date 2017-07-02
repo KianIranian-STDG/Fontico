@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'iGap-Fontico';
-  src:  url('fonts/iGap-Fontico.eot?wi8bmf');
-  src:  url('fonts/iGap-Fontico.eot?wi8bmf#iefix') format('embedded-opentype'),
-    url('fonts/iGap-Fontico.ttf?wi8bmf') format('truetype'),
-    url('fonts/iGap-Fontico.woff?wi8bmf') format('woff'),
-    url('fonts/iGap-Fontico.svg?wi8bmf#iGap-Fontico') format('svg');
+  src:  url('fonts/iGap-Fontico.eot?th3vvd');
+  src:  url('fonts/iGap-Fontico.eot?th3vvd#iefix') format('embedded-opentype'),
+    url('fonts/iGap-Fontico.ttf?th3vvd') format('truetype'),
+    url('fonts/iGap-Fontico.woff?th3vvd') format('woff'),
+    url('fonts/iGap-Fontico.svg?th3vvd#iGap-Fontico') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,41 +24,17 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.igap_file-gif:before {
-  content: "\e903";
+.igap_undo2:before {
+  content: "\e967";
 }
-.igap_file-gif2:before {
-  content: "\e906";
+.igap_redo2:before {
+  content: "\e968";
 }
-.igap_quote:before {
-  content: "\e907";
+.igap_forward:before {
+  content: "\e969";
 }
-.igap_quote2:before {
-  content: "\e908";
-}
-.igap_camera:before {
-  content: "\e909";
-}
-.igap_film:before {
-  content: "\e90a";
-}
-.igap_picture:before {
-  content: "\e90b";
-}
-.igap_cassette:before {
-  content: "\e90c";
-}
-.igap_wallet:before {
-  content: "\e90d";
-}
-.igap_position:before {
-  content: "\e90e";
-}
-.igap_bookmark:before {
-  content: "\e90f";
-}
-.igap_zip:before {
-  content: "\e910";
+.igap_reply:before {
+  content: "\e96a";
 }
 .igap_home:before {
   content: "\e911";
@@ -141,17 +117,47 @@ i {
 .igap_exit:before {
   content: "\ea14";
 }
-.igap_forward2:before {
-  content: "\e904";
-}
-.igap_right:before {
-  content: "\e904";
-}
-.igap_arrow-right2:before {
-  content: "\e904";
-}
 .igap_qrcode2:before {
   content: "\e905";
+}
+.igap_file-gif:before {
+  content: "\e903";
+}
+.igap_file-gif2:before {
+  content: "\e906";
+}
+.igap_quote:before {
+  content: "\e907";
+}
+.igap_quote2:before {
+  content: "\e908";
+}
+.igap_camera:before {
+  content: "\e909";
+}
+.igap_film:before {
+  content: "\e90a";
+}
+.igap_picture:before {
+  content: "\e90b";
+}
+.igap_cassette:before {
+  content: "\e90c";
+}
+.igap_wallet:before {
+  content: "\e90d";
+}
+.igap_position:before {
+  content: "\e90e";
+}
+.igap_bookmark:before {
+  content: "\e90f";
+}
+.igap_zip:before {
+  content: "\e910";
+}
+.igap_unpin:before {
+  content: "\e904";
 }
 .igap_channel:before {
   content: "\e900";
@@ -2646,7 +2652,7 @@ i {
 .igap_forum:before {
   content: "\f28c";
 }
-.igap_forward:before {
+.igap_forward2:before {
   content: "\f28d";
 }
 .igap_foursquare:before {
@@ -4467,7 +4473,7 @@ i {
 .igap_replay:before {
   content: "\f459";
 }
-.igap_reply:before {
+.igap_reply2:before {
   content: "\f45a";
 }
 .igap_reply-all:before {
